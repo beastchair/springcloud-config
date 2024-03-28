@@ -1,5 +1,5 @@
 spring:
   application:
-    name: springcloud-config-test v=2
+    name: springcloud-config-test v=3
   profiles:
     active: test
